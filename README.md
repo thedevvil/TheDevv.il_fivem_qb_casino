@@ -2,6 +2,11 @@
 # qb-casino
 Casino Script For QB-Core
 
+<p align="center">
+  <img  width="1000" height="250" src="https://i.hizliresim.com/lh5i19a.png">
+</p>
+
+
 # License
 
     QBCore Framework
