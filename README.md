@@ -2,6 +2,22 @@
 # qb-casino
 Casino Script For QB-Core
 
+# The Devv.il Web
+
+- [thedevvil.site](https://thedevvil.site)
+
+<p align="center">
+  <img  width="200" height="200" src="https://i.hizliresim.com/cau0xef.png">
+</p>
+
+- [thedevvil.com.tr](https:/thedevvil.com.tr) 
+
+<p align="center">
+  <img  width="200" height="200" src="https://i.hizliresim.com/mir3xf2.png">
+</p>
+
+# The Devv.il
+
 <p align="center">
   <img  width="1000" height="250" src="https://i.hizliresim.com/lh5i19a.png">
 </p>
